@@ -1,0 +1,13 @@
+{
+  "name": "@blargbot/eslint-config-blargbot-vue",
+  "version": "1.0.0",
+  "description": "eslint vue config for blargbot",
+  "main": "index.js",
+  "repository": "https://github.com/blargbot/eslint-config-vue",
+  "author": "stupid cat <cat@blargbot.xyz>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint-plugin-vue": "^5.2.2"
+  }
+}
